@@ -1,0 +1,20 @@
+.name{color:red;background-color: :black;}
+.label{background-color: silver; width: 200px;height:150px;color:goldenrod;font-size:150%;}
+.input{color:blue;background-color: yellowgreen;font-style: italic;
+
+}
+.input:hover{color:blue;background-color: yellowgreen;padding-left: 25px;transition: ease-in-out;
+
+}
+.input:hover {color:rgb(88, 68, 12)186, 186, 190);background-color:cyan; box-shadow: 5px 10px teal;
+
+}
+h1:hover{height:350px;width:500px;color:indigo;margin: 0px auto;padding-left: 200px;background-color: teal;}
+h2:hover{height:250px;width:500px;color:indigo;margin: 0px auto;padding-left: 200px;background-color:magenta;}
+
+
+/*
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at https://angular.io/license
+*/
